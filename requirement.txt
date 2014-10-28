@@ -1,0 +1,4 @@
+beautifulsoup4==4.3.2
+requests==2.4.3
+xlrd==0.9.3
+xlwt==0.7.5
